@@ -12,10 +12,9 @@ class Resume extends Component{
                         <img src='../../Murial.jpg' style={{height:"300px",paddingtop: "5em"}} alt="" className="avatar-img"/>  
                         </div>
                         <h2 style={{paddingTop: '2em'}}>Murial Anindo</h2>
-                        <h4 style={{color: 'grey'}}>Cloud Program Manager</h4>
+                        <h4 style={{color: 'grey'}}>React Developer</h4>
                          <hr style={{borderTop: '3px solid #833fb2', width: '50%'}}/>
-                         <p>A proven record of leading complex and diverse technology programs and projects that drive organizational transformations and growth. Solid understanding of Cloud Technologies and architectures and extensive experience with all aspects of software development and product delivery. Experience in leveraging technical, business and financial acumen to communicate with leadership and effectively report program status using 
-                             developed Tableau and JIRA dashboards</p>
+                         <p>A proven record of leading complex and diverse technology programs and projects that drive organizational transformations and growth.Solid understanding and experience of Cloud Technologies and architectures with achieved proven leading AWS certifications.Experience with all aspects of software development and product delivery. Experience in leveraging technical, business and financial acumen to communicate with leadership and influence organizational transformations.</p>
                           <hr style={{borderTop: '3px solid #833fb2', width: '50%'}}/>
                           <h5>Address</h5>
                          <p>11410 Reston Station Blvd</p>

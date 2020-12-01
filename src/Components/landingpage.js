@@ -9,9 +9,9 @@ class Landing extends Component{
           <Cell col={12}>
             <img src='../../Murial.jpg' style={{height:"300px",paddingtop: "5em"}} alt="" className="avatar-img"/>  
             <div className="banner-text">
-                <h1>Cloud Program Manager</h1>
+                <h1>React Developer</h1>
                 <hr/>
-                <p>Program Management | HTML/CSS | JavaScript | React |  NodeJS |  Cloud Computing</p>
+                <p> React| Cloud Computing [AWS & GCP]| JavaScript | Program Management|  NodeJS |</p>
                 <div className="social-links">
                     {/*LinkedIn */}
                     <a href="https://www.linkedin.com/in/murial-anindo/" rel="noopener noreferrer" target="_blank">
